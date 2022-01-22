@@ -53,18 +53,22 @@ Run
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
-fatal: unable to auto-detect email address (got 'USERNAMEX@PCUSERNAMEX.(none)')
+fatal: unable to auto-detect email address (got 'USERNAMEX@PC-DO-USERNAMEX.(none)')
 
 ### Como pedido na descrição do erro, basta adicionar um name e um email ao git 
 config usando as instruções dadas além disso aparecerá um aviso pedindo que você 
-escreva uma mensagem para o commit ###
+escreva uma mensagem para o commit
+  
+  Lembrando que esse email e name se tratam de créditos de autoria da modificação
+  e não as credenciais para poder modificar o repositorio é falado em Parte 4###
+  
 
 Please enter the commit message for your changes. Lines starting
 with '#' will be ignored, and an empty message aborts the commit.
 On branch main
 Your branch is up to date with 'origin/main'.
 Changes to be committed:
-       new file:   Segunda pasta/texto2.txt
+       new file:   Parte-4.txt
 
 ### Para sair dessa tela aperte "ctrl + c" depois disso digite ":qa" aperte enter e agora digite
 [git commit -m "uma mensagem de sua autoria que referencia a esse commit"] (usando aspas mesmo) ###
