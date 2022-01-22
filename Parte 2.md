@@ -53,7 +53,7 @@ Run
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
-fatal: unable to auto-detect email address (got 'Christian@LAPTOP-DO-CHRIS.(none)')
+fatal: unable to auto-detect email address (got 'USERNAMEX@PCUSERNAMEX.(none)')
 
 ### Como pedido na descrição do erro, basta adicionar um name e um email ao git 
 config usando as instruções dadas além disso aparecerá um aviso pedindo que você 
