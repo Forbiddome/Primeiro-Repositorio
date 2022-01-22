@@ -1,8 +1,8 @@
 $ git push origin main
 git status
-To https://github.com/USERNAME1/Primeiro-Projeto.git
+To https://github.com/USERNAMEX/Primeiro-Projeto.git
  ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/USERNAME1/Primeiro-Projeto.git'
+error: failed to push some refs to 'https://github.com/USERNAMEX/Primeiro-Repositorio.git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
