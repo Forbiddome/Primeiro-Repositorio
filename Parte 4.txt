@@ -1,0 +1,4 @@
+Essa PASTA não, esse arquivo TXT foi colocado aqui via terminal do GitBash usando o passo a passo descrito nesse projeto
+no arquivo ComoIniciarnoGitHub.md
+completamente inspirado no curso da Dio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
+feito pelo professor Venilton FalvoJr
