@@ -2,3 +2,10 @@ Essa PASTA não, esse arquivo TXT foi colocado aqui via terminal do GitBash usan
 no arquivo ComoIniciarnoGitHub.md
 completamente inspirado no curso da Dio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
 feito pelo professor Venilton FalvoJr
+
+Atualização: Como estou repostando esse tutorial de uma antiga conta do GitHub tive que apagar as credenciais de login e senha
+do GitHub em Gerenciador de Credenciais no painel de controle do windows- simplesmente removendo a credencial
+Assim podendo logar as credenciais agora com a nova conta não dando mais seguinte erro:
+
+remote: Permission to Forbiddome/Primeiro-Repositorio.git denied to Chroliram.
+fatal: unable to access 'https://github.com/Forbiddome/Primeiro-Repositorio.git/': The requested URL returned error: 403
