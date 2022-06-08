@@ -1,0 +1,6 @@
+GIT PUSH nao aceita divergencia de historico de versões no worktree
+(não é o erro de credenciais!!! )
+
+Esse arquivo teve uma commitada a menos que o repo remoto
+e foi commitado +1 vez no repo local
+logo houve o commit de uma versão atrasada dando comflito de versões
